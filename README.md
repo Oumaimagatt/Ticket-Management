@@ -1,13 +1,1 @@
-# Angular Login & Logout with Asp.Net Core Web API & JWT
-Demo project showing How to create a complete Angular Login & Logout System with Asp.Net Core Minimal Web API & JWT
-
-
- ## How it works ?
- 
- 
- :tv: Video tutorial on this same topic  
- Url : https://youtu.be/mT6qUQyvjKg
- 
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=mT6qUQyvjKg
-" target="_blank"><img src="http://img.youtube.com/vi/mT6qUQyvjKg/0.jpg" 
-alt="Video Tutorial for Angular Login & Logout with Asp.Net Core Minimal Web API & JWT" width="500" height="400" border="10" /></a>
+This project is a Ticket Management System built with Angular for the frontend and ASP.NET Core for the backend. It allows an admin to manage users and (soon) support tickets through a clean dashboard interface. The backend uses SQL Server with manual ADO.NET data access, and authentication is restricted to admins only. The system is designed for internal use in managing support for digital tools, with plans to integrate AI for ticket analysis and categorization.
