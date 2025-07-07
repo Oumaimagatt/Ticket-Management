@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\controllers\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|d:\\test1pfe\\user-manage2\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderEndpoints.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\OrderEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:05:49.757Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "AuthECAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:27:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T05:11:15.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityUserEndpoints.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:16:22.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:53:33.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:59:10.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppSettings.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:13:25.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:05:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:11:41.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "D:\\test1pfe\\user-manage2\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:20:49.667Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 694,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

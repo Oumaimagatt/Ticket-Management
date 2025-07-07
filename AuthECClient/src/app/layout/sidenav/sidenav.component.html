@@ -1,0 +1,43 @@
+
+<div class="sidebar" [ngClass]="{ 'showSidebar': isSidebarVisible, 'hideSidebar': !isSidebarVisible }" [@fadeInOut]>
+  <ul>
+    <li>
+      <a 
+        routerLink="/dashboard"
+        routerLinkActive="active" 
+        [routerLinkActiveOptions]="{ exact: true }"
+        (click)="toggleSubmenu()" 
+        class="cursor-pointer"
+      >
+        <span class="menu-icon material-icons">dashboard</span>
+        <span class="menu-text">Dashboard</span>
+        <span class="sub-menu-icon" [ngClass]="{ 'sub-menu-open': isSubmenuOpen }">
+          <mat-icon>{{ isSubmenuOpen ? 'keyboard_arrow_down' : 'keyboard_arrow_right' }}</mat-icon>
+        </span>
+      </a>
+
+      <ul *ngIf="isSubmenuOpen" class="sub-menu">
+        <li>
+          <a 
+            routerLink="/dashboard/user-management" 
+            routerLinkActive="active" 
+            class="cursor-pointer"
+          >
+            <span class="menu-icon material-icons">people</span>
+            <span class="menu-text">User Management</span>
+          </a>
+        </li>
+        <li>
+          <a 
+            routerLink="/dashboard/ticket-management" 
+            routerLinkActive="active" 
+            class="cursor-pointer"
+          >
+            <span class="menu-icon material-icons">confirmation_number</span>
+            <span class="menu-text">Ticket Management</span>
+          </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>

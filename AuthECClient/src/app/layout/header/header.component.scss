@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+
+.header-toolbar {
+  background: #ffffff;
+  color: #4b5563;
+  height: 64px;
+  padding: 0 24px;
+  display: flex;
+  align-items: center; 
+  font-family: 'Poppins', sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+
+.header-toolbar > * {
+  display: flex;
+  align-items: center;
+}
+
+.menu-button {
+  color: #6366f1;
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    background-color: #eef2ff;
+  }
+
+  mat-icon {
+    font-size: 24px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+}
+
+.title {
+  color: #6366f1;
+  font-weight: 700;
+  font-size: 1.375rem;
+  margin-left: 16px;
+  letter-spacing: -0.5px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+}
+
+.flex-spacer {
+  flex: 1 1 auto;
+}
+
+.profile-button {
+  background: transparent;
+  color: #4b5563;
+  font-weight: 600;
+  font-size: 0.9375rem;
+  letter-spacing: 0.25px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  
+  &:hover {
+    background-color: #f3f4f6;
+    color: #1f2937;
+  }
+}
+
+.logout-button {
+  color: #6366f1;
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  margin-left: 8px;
+  
+  &:hover {
+    background-color: #eef2ff;
+  }
+
+  mat-icon {
+    font-size: 22px;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto; 
+  }
+}
